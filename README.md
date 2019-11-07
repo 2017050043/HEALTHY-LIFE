@@ -44,5 +44,5 @@ Home page-summary about HEALTHY-LIFE
 * Submitting when its done.
 
 <p align="center">
->><a href="">Home page</a><<<br>
+>><a href="https://2017050043.github.io/HEALTHY-LIFE/">Home page</a><<<br>
 <br>
