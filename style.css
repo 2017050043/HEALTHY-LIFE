@@ -81,7 +81,7 @@ p a:hover {
 
 #header ul li a:hover, #header ul li.selected a {
 	background: url(sprites-icons.gif) no-repeat 0 -370px;
-	color: #7c0032;
+	color: #1624da;
 	text-shadow: 1px 1px 0 #fde8f7;
 }
 
